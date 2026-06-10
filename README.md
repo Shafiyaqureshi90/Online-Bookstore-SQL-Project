@@ -1,4 +1,4 @@
-# Online Bookstore SQL Project
+# 📚 Online Bookstore SQL Project
 
 ## Project Overview
 
@@ -70,6 +70,27 @@ This project demonstrates SQL database design and data analysis using an Online 
 19. Identify the highest-spending customer.
 20. Calculate remaining stock after fulfilling orders.
 
+## Key Insights
+
+* Total Revenue Generated: **75,628.66**
+* Mystery genre recorded the highest sales volume.
+* Identified the highest-spending customer using SQL aggregation and sorting techniques.
+* Performed sales, customer, and inventory analysis using SQL queries.
+
+## Query Results
+
+### Total Revenue Analysis
+
+![Total Revenue](total_revenue.png)
+
+### Books Sold by Genre
+
+![Books Sold by Genre](books_sold_by_genre.png)
+
+### Highest Spending Customer
+
+![Highest Spending Customer](highest_spending_customer.png)
+
 ## Dataset
 
 The dataset was imported into PostgreSQL using the pgAdmin Import/Export feature.
@@ -77,8 +98,8 @@ The dataset was imported into PostgreSQL using the pgAdmin Import/Export feature
 ## Project Files
 
 * database_schema.sql
-* sql_queries.sql
 * sample_data.sql
+* sql_queries.sql
 
 ## Tools Used
 
@@ -89,5 +110,6 @@ The dataset was imported into PostgreSQL using the pgAdmin Import/Export feature
 
 ## Author
 
-Shafiya
+**Shafiya**
+
 Aspiring Data Analyst | SQL | Python | Power BI
